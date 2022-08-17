@@ -6,10 +6,6 @@
 ;O acinamentos podem ser individuais ou geral 	
 
 
-	LED1	EQU 	P2.0
-	LED2	EQU	P2.1
-	LED3	EQU	P2.2
-	LED4	EQU	P2.3
 
 	BTN1	EQU	P2.4
 	BTN2	EQU	P2.5
